@@ -1,0 +1,3 @@
+/home/artelhin/msu/projects/game-of-life/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/artelhin/msu/projects/game-of-life/cmake-build-debug/CMakeFiles/GoL.dir
+/home/artelhin/msu/projects/game-of-life/cmake-build-debug/CMakeFiles/edit_cache.dir
