@@ -11,7 +11,7 @@ const size_t window_h = 800;
 const size_t window_w = 800;
 const int grid_h = 200;
 const int grid_w = 200;
-const int maxTPS = 30;
+const int maxTPS = 20;
 const int spawnRate = 40;
 
 int main() {
